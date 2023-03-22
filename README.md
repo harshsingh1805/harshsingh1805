@@ -3,9 +3,9 @@
 ## I'm a Student, Coder, Developer, and Learner!
 - 🔭 I’m currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 👯 I’m looking to network with more and more people
+- 🥅 2023 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love cycling and playing group games!!
 
 ### Connect with me:
 
