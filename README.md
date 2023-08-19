@@ -13,7 +13,7 @@
 <img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 
 <br />
 
@@ -40,10 +40,10 @@
 <br />
 
 [website]: https://google.com
-[twitter]: [https://twitter.com/codeSTACKr](https://twitter.com/Harshva63983452)
+[twitter]: https://twitter.com/Harshva63983452
 [youtube]: https://youtube.com/
 [instagram]: https://instagram.com/
-[linkedin]: [https://linkedin.com/in/codeSTACKr](https://www.linkedin.com/in/harshvardhan-singh-o021/)https://www.linkedin.com/in/harshvardhan-singh-o021/
+[linkedin]: https://www.linkedin.com/in/harshvardhan-singh o021/
 
 
 
