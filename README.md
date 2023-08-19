@@ -1,7 +1,7 @@
 ### Hi there, I'm Harsh Singh - aka [Harshsingh1805][website] 👋
 
 ## I'm a Student, Coder, Developer, and Learner!
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently doing projects on Web Development
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to network with more and more people
 - 🥅 2023 Goals: Contribute more to Open Source projects
@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-<img align="left" alt="Globe" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+<a href = "https://www.google.com/"><img align="left" alt="Globe" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
 <img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -39,11 +39,11 @@
 <br />
 <br />
 
-[website]: https://google.com
+[website]: https://google.com](https://www.linkedin.com/in/harshvardhan-singh-o021/
 [twitter]: https://twitter.com/Harshva63983452
 [youtube]: https://youtube.com/
 [instagram]: https://instagram.com/
-[linkedin]: https://www.linkedin.com/in/harshvardhan-singh o021/
+
 
 
 
