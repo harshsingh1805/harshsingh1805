@@ -10,10 +10,10 @@
 ### Connect with me:
 
 <a href = "https://www.google.com/"><img align="left" alt="Globe" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
-<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href = "https://www.youtube.com/"><img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
+<a href = "https://twitter.com/Harshva63983452"><img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+<a href = "https://www.linkedin.com/in/harshvardhan-singh-o021/"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a?
+<a href = "https://www.instagram.com/"><img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
 <br />
 
@@ -40,9 +40,6 @@
 <br />
 
 [website]: https://google.com](https://www.linkedin.com/in/harshvardhan-singh-o021/
-[twitter]: https://twitter.com/Harshva63983452
-[youtube]: https://youtube.com/
-[instagram]: https://instagram.com/
 
 
 
