@@ -39,4 +39,11 @@
 <br />
 <br />
 
+[website]: https://google.com
+[twitter]: [https://twitter.com/codeSTACKr](https://twitter.com/Harshva63983452)
+[youtube]: https://youtube.com/
+[instagram]: https://instagram.com/
+[linkedin]: [https://linkedin.com/in/codeSTACKr](https://www.linkedin.com/in/harshvardhan-singh-o021/)https://www.linkedin.com/in/harshvardhan-singh-o021/
+
+
 
